@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fieldnote</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notes">Notes</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_focus">Focus Mode</string>
+    <string name="title_habits">Habits &amp; Routines</string>
+    <string name="title_vault">Privacy Vault</string>
+    <string name="title_settings">Settings</string>
+</resources>

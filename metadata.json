@@ -1,0 +1,7 @@
+{
+  "name": "Fieldnote",
+  "description": "A minimalist, privacy-focused productivity app with daily task management, rich notes, calendar timeline, encrypted storage, and an AI Copilot scheduling assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

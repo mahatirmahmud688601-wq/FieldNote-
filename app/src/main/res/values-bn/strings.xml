@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fieldnote</string>
+    <string name="title_dashboard">ড্যাশবোর্ড</string>
+    <string name="title_notes">নোটস</string>
+    <string name="title_tasks">টাস্কস</string>
+    <string name="title_calendar">ক্যালেন্ডার</string>
+    <string name="title_focus">ফোকাস মোড</string>
+    <string name="title_habits">অভ্যাস ও রুটিন</string>
+    <string name="title_vault">গোপনীয় ভল্ট</string>
+    <string name="title_settings">সেটিংস</string>
+</resources>

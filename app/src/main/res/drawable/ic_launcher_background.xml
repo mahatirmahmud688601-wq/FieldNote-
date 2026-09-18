@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Very dark, matte charcoal black background with subtle diagonal ambient gradient -->
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="12"
+                android:startY="12"
+                android:endX="96"
+                android:endY="96"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#1A1B18" />
+                <item android:offset="0.5" android:color="#141512" />
+                <item android:offset="1.0" android:color="#0D0E0C" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Subtle tactile surface micro-texture: horizontal & vertical hairline grain -->
+    <path
+        android:strokeColor="#0AFFFFFF"
+        android:strokeWidth="0.5"
+        android:pathData="M0,18h108 M0,36h108 M0,54h108 M0,72h108 M0,90h108 M18,0v108 M36,0v108 M54,0v108 M72,0v108 M90,0v108" />
+
+    <!-- Subtle embossed circular vignette for tactile depth -->
+    <path
+        android:strokeColor="#06FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M54,16 A38,38 0 1 0 54,92 A38,38 0 1 0 54,16 Z" />
+</vector>
